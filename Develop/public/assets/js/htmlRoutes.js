@@ -5,3 +5,9 @@ module.exports = function(app){
         res.sendFile(path.join(__dirname, "../../notes.html"));
     })
 }
+
+module.exports = function(app){
+    app.get("*", function(req, res){
+        res.sendFile(path.join(__dirname, "../../index.html"));
+    })
+}
