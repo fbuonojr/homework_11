@@ -1,4 +1,4 @@
-# Unit 11 Express Homework: Note Taker
+<!-- # Unit 11 Express Homework: Note Taker
 
 ## Description
 
@@ -77,4 +77,10 @@ You are required to submit the following:
 * The URL of the GitHub repository
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. -->
+
+# Frank Buoon: Homework 11- Note Taker
+
+## Technologies Used: HTML, CSS, JavaScript, Express
+
+* link to GitHub Repository: https://github.com/fbuonojr/homework_11
