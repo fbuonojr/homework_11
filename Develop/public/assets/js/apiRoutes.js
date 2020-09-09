@@ -3,6 +3,7 @@ var fs = require("fs");
 
 module.exports = function(app) {
     app.get("/api/notes", function(req, res){
+        console.log(jsondb);
         res.json(jsondb);
     });
 
